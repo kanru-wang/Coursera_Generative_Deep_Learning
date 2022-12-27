@@ -23,4 +23,3 @@ From: https://towardsdatascience.com/intuitively-understanding-variational-autoe
 - A Variational AutoEncoder's latent space is continuous, allowing easy random sampling and interpolation.
 
 <img src="https://miro.medium.com/max/1400/1*3stEqn8fWIYeeBShlkWAYA.webp" width="700"/>
-
