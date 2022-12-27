@@ -1,9 +1,9 @@
 ### Variational AutoEncoders
 
-- The Variational AutoEncoder's decoder is what is used in inference.
-- The training of decoder is about learning how to harness the random matrix.
+- A Variational AutoEncoder's decoder is what is used in inference.
+- The training of the decoder is about learning how to harness the random matrix.
 - There are the "mean" part and "standard deviation" part (instead of just the "mean" part) because we want the encoder return a distribution over the latent space instead of a single point. 
-- The Variational AutoEncoder's encoder is for creating a consistent mapping between random matrix values and images.
+- The encoder is for creating a consistent and meaningful mapping between random matrix values and images.
 
 From: https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73
 
