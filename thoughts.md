@@ -34,4 +34,13 @@ From: https://towardsdatascience.com/intuitively-understanding-variational-autoe
 ### GAN
 
 - When train the Generator with the Discriminator frozen, the labels used are all 1's. The reason for having all 1's is that, if a fake image is classified by the Discriminator as fake (close to 0), then there will be a large loss, which is desired.
-- 
+
+<br>
+
+### Neural Style Transfer
+
+CNN is not updated, but the input image is updated instead:
+<img src="image/neural_style_transfer_1.png" width="700"/>
+
+Calculating Content Loss or Style Loss:
+<img src="image/neural_style_transfer_2.png" width="700"/>
