@@ -40,7 +40,11 @@ From: https://towardsdatascience.com/intuitively-understanding-variational-autoe
 ### Neural Style Transfer
 
 CNN is not updated, but the input image is updated instead:
+
 <img src="image/neural_style_transfer_1.png" width="700"/>
 
+<br>
+
 Calculating Content Loss or Style Loss:
+
 <img src="image/neural_style_transfer_2.png" width="700"/>
