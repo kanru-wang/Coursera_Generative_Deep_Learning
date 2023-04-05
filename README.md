@@ -1,4 +1,4 @@
-# coursera_generative_deep_learning
+# Coursera Generative Deep Learning
 
 Neural Style Transfer, Variational AutoEncoders, and GANs templates
 
