@@ -2,8 +2,8 @@
 
 Neural Style Transfer, Variational AutoEncoders, and GANs templates
 
-https://www.coursera.org/learn/generative-deep-learning-with-tensorflow
-https://github.com/https-deeplearning-ai/tensorflow-3-public/tree/main/Course%204%20-%20Generative%20Deep%20Learning
+- https://www.coursera.org/learn/generative-deep-learning-with-tensorflow
+- https://github.com/https-deeplearning-ai/tensorflow-3-public/tree/main/Course%204%20-%20Generative%20Deep%20Learning
 
 ### Variational AutoEncoders
 
