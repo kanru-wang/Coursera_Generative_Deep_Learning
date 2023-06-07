@@ -7,10 +7,17 @@ Neural Style Transfer, Variational AutoEncoders, and GANs templates
 
 ### Variational AutoEncoders
 
+- The main benefit of a Variational AutoEncoder is to learn smooth latent state representations of the input data.
 - A Variational AutoEncoder's decoder is what is used in inference.
 - The training of the decoder is about learning how to harness the random matrix.
-- There are the "mean" part and "standard deviation" part (instead of just the "mean" part) because we want the encoder return a distribution over the latent space instead of a single point. 
+- There are the "mean" part and "standard deviation" part (instead of just the "mean" part) because we want the encoder return a distribution over the latent space instead of a single point.
 - The encoder is for creating a consistent and meaningful mapping between random matrix values and images.
+
+<br>
+
+From: https://www.jeremyjordan.me/variational-autoencoders/
+
+<img src="https://www.jeremyjordan.me/content/images/2018/06/Screen-Shot-2018-06-20-at-2.48.42-PM.png" width="900"/>
 
 <br>
 
