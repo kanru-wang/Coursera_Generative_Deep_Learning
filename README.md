@@ -48,6 +48,7 @@ From: https://towardsdatascience.com/intuitively-understanding-variational-autoe
 ### GAN
 
 - When train the Generator with the Discriminator frozen, the labels used are all 1's. The reason for having all 1's is that, if a fake image is classified by the Discriminator as fake (close to 0), then there will be a large loss, which is desired.
+- A list of GAN tricks: https://github.com/soumith/ganhacks
 
 <br>
 
