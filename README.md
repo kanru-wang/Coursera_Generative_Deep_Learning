@@ -1,4 +1,6 @@
-### View [this nbviewer repository](https://nbviewer.org/github/kanru-wang/Coursera_Generative_Deep_Learning) if you have problem viewing the notebooks 
+### View [this nbviewer mirrored repository](https://nbviewer.org/github/kanru-wang/Coursera_Generative_Deep_Learning), if you see formatting issues in the notebooks above.
+
+--------------------------------
 
 <br>
 
