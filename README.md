@@ -1,3 +1,7 @@
+### View [this nbviewer repository](https://nbviewer.org/github/kanru-wang/Coursera_Generative_Deep_Learning) if you have problem viewing the notebooks 
+
+<br>
+
 # Coursera Generative Deep Learning
 
 Neural Style Transfer, Variational AutoEncoders, and GANs templates
